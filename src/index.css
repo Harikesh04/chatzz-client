@@ -1,0 +1,10 @@
+/* ./src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.swiper-container {
+  height: 58%;
+  width: 100%;
+  display: flex;
+}
