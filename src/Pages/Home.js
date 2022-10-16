@@ -12,19 +12,19 @@ const data = [
   {
     heading: "Let's Get Started",
     description:
-      'Chatting online with this app will goinf to blow your misd, Thanks for visiting',
+      'Chatting online with this app will going to blow your mind, Thanks for visiting',
     src: '/assets/images/overview-chat.jpg',
   },
   {
     heading: "Let's Chat Online",
     description:
-      'Chatting online with this app will goinf to blow your misd, Thanks for visiting',
+      'Chatting online with this app will going to blow your mind, Thanks for visiting',
     src: '/assets/images/private-chat.jpg',
   },
   {
     heading: "Let's Get code",
     description:
-      'Chatting online with this app will goinf to blow your misd, Thanks for visiting',
+      'Chatting online with this app will going to blow your mind, Thanks for visiting',
     src: '/assets/images/public-chat.jpg',
   },
 ];
