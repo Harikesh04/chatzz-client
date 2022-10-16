@@ -20,7 +20,7 @@ export default function GoogleOAuth({ ...props }) {
   return (
     <div {...props}>
       <GoogleLogin
-        clientId='856890807151-fkq7kand6tnrtleu5n95qfbcp49lvjof.apps.googleusercontent.com'
+        clientId='17859477427-dejs6iqogl23lfhhv4s6ra75v2o8e9sn.apps.googleusercontent.com'
 
         // 17859477427-dejs6iqogl23lfhhv4s6ra75v2o8e9sn.apps.googleusercontent.com
         buttonText='Sign In Using Google'
