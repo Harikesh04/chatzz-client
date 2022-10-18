@@ -59,6 +59,7 @@ export default function ChatRoom() {
   };
   const HandleSendMessage = () => {
     if (!inputMsg) return;
+    
     Send(inputMsg, roomid);
     socket.emit('toServer', {
       room: roomid,
