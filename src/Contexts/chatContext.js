@@ -8,21 +8,21 @@ const chats = [
   {
     type: 'notice',
     data: {
-      message: 'Ashutosh Singh Joined',
+      message: 'Harikesh Singh Joined',
       roomid: '3',
     },
   },
   {
     type: 'sent',
     data: {
-      message: 'Hey Ajay how are you',
+      message: 'Hey Bro how are you',
       roomid: '3',
     },
   },
   {
     type: 'recieved',
     data: {
-      message: 'Hello Ashutosh, you are an amazing developer',
+      message: 'Hello Harikesh, you are an amazing developer',
       user: 'Ajay Yadav',
       roomid: '3',
     },
