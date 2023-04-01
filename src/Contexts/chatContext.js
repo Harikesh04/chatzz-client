@@ -23,7 +23,7 @@ const chats = [
     type: 'recieved',
     data: {
       message: 'Hello Harikesh, you are an amazing developer',
-      user: 'Ajay Yadav',
+      user: 'Harikesh Singh',
       roomid: '3',
     },
   },
